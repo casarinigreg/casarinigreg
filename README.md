@@ -2,7 +2,7 @@
 
 #
 
-Atualmente estudando Analise e Desenvolvimento de Sistemas na Faculdade SPTech School em São Paulo. Sempre procurando melhorar e evoluir na tecnologia em todas as oportunidade!
+Atualmente estudando Analise e Desenvolvimento de Sistemas na Faculdade SPTech School em São Paulo. Sempre procurando melhorar e evoluir na tecnologia em todas as oportunidades!
 
 #
 

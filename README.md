@@ -1,16 +1,18 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5A0000&center=true&vCenter=true&width=435&lines=%F0%93%82%83%CB%96%CB%B3%C2%B7%CB%96+%D6%B4%D6%B6%D6%B8++Welcome+to+my+profile!++%CE%A8++%D6%B4%D6%B6%D6%B8%CB%96%C2%B7%CB%B3%CB%96%F0%93%82%83+%D6%B4%D6%B6%D6%B8" alt="Typing SVG" /></a>
 
-<!--
-**casarinigreg/casarinigreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+Atualmente estudando Analise e Desenvolvimento de Sistemas na Faculdade SPTech School em São Paulo. Sempre procurando melhorar e evoluir na tecnologia em todas as oportunidade!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<div> 
+  <b>Connect with me!</b>
+  
+  
+  <a href="https://instagram.com/https.gregory" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
+  <a href = "mailto:gregory.casarini@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
